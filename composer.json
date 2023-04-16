@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "Quest Composer 2",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BlueEel",
+            "email": "baptiste.chasset@gmail.coml"
+        }
+    ],
+    "require": {}
+}
